@@ -1,0 +1,6 @@
+tensorflow
+pillow
+numpy
+pandas
+flask
+prometheus_client
