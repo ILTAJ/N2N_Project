@@ -1,2 +1,5 @@
 data/
 ./cats_vs_dogs_model.h5
+n2n_project.pem
+n2n_project_key.pem
+n2n_project_key.ppk
